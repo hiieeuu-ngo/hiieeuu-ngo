@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hiieeuu-ngo
-- 👀 I’m interested in Object Oriented Programming
+- 👀 I’m interested in stuff
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hiieeuu@gmail.com
